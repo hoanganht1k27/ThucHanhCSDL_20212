@@ -8,4 +8,7 @@
   <li>
     <b>Assignment2: </b> <a href="./assignment2">Query tunining with SSMS</a>
   </li>
+  <li>
+    <b>Assignment3: </b> <a href="./assignment3">Index tunining with SSMS</a>
+  </li>
 </ul>
