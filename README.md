@@ -11,4 +11,10 @@
   <li>
     <b>Assignment3: </b> <a href="./assignment3">Index tunining with SSMS</a>
   </li>
+  <li>
+    <b>Assignment4: </b> <a href="./assignment4">SQL_PostgreSQL_TongHop</a>
+  </li>
+  <li>
+    <b>Backup: </b> <a href="./Backup">Backup file of database in ssms and pgadmin</a>
+  </li>
 </ul>
