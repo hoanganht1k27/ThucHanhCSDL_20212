@@ -18,6 +18,9 @@
     <b>Assignment6: </b> <a href="./assignment6">Lab 8</a>
   </li>
   <li>
+    <b>Assignment7: </b> <a href="./assignment7">Lab 9</a>
+  </li>
+  <li>
     <b>Backup: </b> <a href="./Backup">Backup file of database in ssms and pgadmin</a>
   </li>
 </ul>
