@@ -15,6 +15,9 @@
     <b>Assignment4: </b> <a href="./assignment4">SQL_PostgreSQL_TongHop</a>
   </li>
   <li>
+    <b>Assignment4: </b> <a href="./assignment6">Lab 8</a>
+  </li>
+  <li>
     <b>Backup: </b> <a href="./Backup">Backup file of database in ssms and pgadmin</a>
   </li>
 </ul>
